@@ -7,4 +7,4 @@
  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝             
 ```
 
-[Arc browser🚀](https://arc.net/gift/84ea86e4) | [WebStorm⚡️](https://www.jetbrains.com/webstorm/)
+[Arc browser](https://arc.net/gift/84ea86e4) | [WebStorm](https://www.jetbrains.com/webstorm/)
